@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @willuop
-- 👀 I’m interested in Game Deveopment and Design. Web Development(Fornt end) 
+- 👀 I’m interested in Game Deveopment and Design. Web Development(Front end) 
 - 🌱 I’m currently learning Unity. HTML, CSS and PHP
 - 📫 How to reach me, Reach me on discord at: That One Dev#2903
